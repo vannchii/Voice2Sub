@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28102169/README.md)
 # Voice2Sub — AI Subtitle Generator for Video & Audio
 
 **Voice2Sub** is a cross-platform desktop app that turns speech from video or audio files into AI-generated subtitles, transcripts and editable text.
