@@ -39,10 +39,20 @@ Many transcription tools are either online-only, limited to basic audio files, o
 
 Voice2Sub publishes release notes on the official website and mirrors the public version history here for GitHub discovery.
 
+### v1.1.0 — Batch subtitle creation and clearer progress tracking
+
+**Date:** May 30, 2026
+**Status:** Current stable release
+
+Voice2Sub 1.1.0 lets you create subtitles for multiple files at once, follow progress more easily, and enjoy more reliable file handling and updates across Windows, macOS, and Linux.
+
+- Create subtitles for multiple audio or video files in one run with the new batch workflow.
+- Follow progress more easily with a new processing drawer and clearer status log.
+- Improved file selection, drag-and-drop, internal processing reliability, and update reliability on Windows, macOS, and Linux.
+
 ### v1.0.5 — Linux support and smoother performance
 
 **Date:** May 20, 2026  
-**Status:** Current stable release
 
 Voice2Sub 1.0.5 adds Linux availability and optimizes overall performance and stability for a smoother, more reliable user experience.
 
